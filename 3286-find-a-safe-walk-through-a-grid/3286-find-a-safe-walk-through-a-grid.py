@@ -21,7 +21,4 @@ class Solution:
             
             return False
 
-        if dfs(0,0,health):
-            return True
-        
-        return False
+        return dfs(0,0,health)
