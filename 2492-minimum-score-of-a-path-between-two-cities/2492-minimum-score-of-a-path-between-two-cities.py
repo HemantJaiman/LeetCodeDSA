@@ -7,24 +7,22 @@ class Solution:
             adj_list[src].append((dst, distance))
             adj_list[dst].append((src, distance))
 
-        visit = set()
-        self.min_score = float("inf")
+        # Step 2: Use BFS to explore the entire connected component containing City 1
+        queue = deque([1])
+        visit = set([1])
+        min_score = float("inf")
 
-        # Step 2: Define the DFS traversal
-        def dfs(node):
-            # Mark the current node as visited
-            visit.add(node)
+        while queue:
+            curr = queue.popleft()
             
-            # Explore all roads connected to this city
-            for neighbor, distance in adj_list[node]:
+            # Check all roads connected to the current city
+            for neighbor, distance in adj_list[curr]:
                 # Track the absolute minimum road distance seen anywhere in this component
-                self.min_score = min(self.min_score, distance)
+                min_score = min(min_score, distance)
                 
-                # If the neighboring city hasn't been visited, traverse into it
+                # Standard BFS tracking: only visit unvisited cities
                 if neighbor not in visit:
-                    dfs(neighbor)
+                    visit.add(neighbor)
+                    queue.append(neighbor)
 
-        # Start DFS from City 1
-        dfs(1)
-        
-        return self.min_score
+        return min_score
