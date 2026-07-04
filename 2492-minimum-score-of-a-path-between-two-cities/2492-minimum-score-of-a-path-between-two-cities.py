@@ -1,24 +1,30 @@
 class Solution:
     def minScore(self, n: int, roads: List[List[int]]) -> int:
         
-        adj_list = {i:[] for i in range(1, n+1)}
+        # Step 1: Build the bidirectional adjacency list
+        adj_list = {i: [] for i in range(1, n + 1)}
+        for src, dst, distance in roads:
+            adj_list[src].append((dst, distance))
+            adj_list[dst].append((src, distance))
 
-        for src,dst,distance in roads:
-            adj_list[src].append([dst,distance])
-            adj_list[dst].append([src,distance])
+        visit = set()
+        self.min_score = float("inf")
 
-        global_score = [float("inf")]
-        visit  = set()
-
-        def dfs(src):
+        # Step 2: Define the DFS traversal
+        def dfs(node):
+            # Mark the current node as visited
+            visit.add(node)
             
-        
-            visit.add(src)
-            for dst,distance in adj_list[src]:
-                global_score[0] = min(global_score[0], distance)
-                if dst not in visit:
-                    dfs(dst)
-            return
+            # Explore all roads connected to this city
+            for neighbor, distance in adj_list[node]:
+                # Track the absolute minimum road distance seen anywhere in this component
+                self.min_score = min(self.min_score, distance)
+                
+                # If the neighboring city hasn't been visited, traverse into it
+                if neighbor not in visit:
+                    dfs(neighbor)
 
+        # Start DFS from City 1
         dfs(1)
-        return global_score[0]
+        
+        return self.min_score
