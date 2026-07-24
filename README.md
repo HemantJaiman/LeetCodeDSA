@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
