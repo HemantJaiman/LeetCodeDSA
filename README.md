@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0061-rotate-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0796-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
