@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0796-rotate-string](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0210-course-schedule-ii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0210-course-schedule-ii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Two Pointers
@@ -221,4 +224,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0207-course-schedule) |
+## Tree
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0449-serialize-and-deserialize-bst) |
+## Design
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0449-serialize-and-deserialize-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0449-serialize-and-deserialize-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->
