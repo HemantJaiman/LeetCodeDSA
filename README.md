@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0365-water-and-jug-problem) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0210-course-schedule-ii) |
+| [0365-water-and-jug-problem](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0365-water-and-jug-problem) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0210-course-schedule-ii) |
+| [0365-water-and-jug-problem](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0365-water-and-jug-problem) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -240,4 +243,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0449-serialize-and-deserialize-bst) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
