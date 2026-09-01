@@ -19,10 +19,10 @@ class UnionFind:
         
         if self.ranks[parent1] >= self.ranks[parent2]:
             self.ranks[parent1] += self.ranks[parent2]
-            self.parents[node2] = parent1
+            self.parents[parent2] = parent1
         else:
             self.ranks[parent2] += self.ranks[parent1]
-            self.parents[node1] = parent2
+            self.parents[parent1] = parent2
 
         return True
 
