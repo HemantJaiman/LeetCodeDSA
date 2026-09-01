@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0210-course-schedule-ii) |
 | [0365-water-and-jug-problem](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0365-water-and-jug-problem) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0449-serialize-and-deserialize-bst) |
+| [0684-redundant-connection](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0684-redundant-connection) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0684-redundant-connection) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0684-redundant-connection) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0210-course-schedule-ii) |
 | [0365-water-and-jug-problem](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0365-water-and-jug-problem) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0449-serialize-and-deserialize-bst) |
+| [0684-redundant-connection](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0684-redundant-connection) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Two Pointers
