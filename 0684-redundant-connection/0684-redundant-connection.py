@@ -12,7 +12,7 @@ class UnionFind:
         return parent
 
     def union(self, node1, node2):
-        parent1,parent2 = self.parents[node1], self.parents[node2]
+        parent1,parent2 = self.find(node1), self.find(node2)
 
         if parent1 == parent2:
             return False
