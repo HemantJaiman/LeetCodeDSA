@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1189-maximum-number-of-balloons](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0365-water-and-jug-problem) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0684-redundant-connection](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0684-redundant-connection) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0365-water-and-jug-problem) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0684-redundant-connection](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0684-redundant-connection) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Two Pointers
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0449-serialize-and-deserialize-bst) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Design
 |  |
 | ------- |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0449-serialize-and-deserialize-bst) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Bézout's Lemma
 |  |
 | ------- |
@@ -265,4 +270,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0365-water-and-jug-problem) |
+## Binary Lifting
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## DP on Trees
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
