@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
