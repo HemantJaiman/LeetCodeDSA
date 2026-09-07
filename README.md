@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0565-array-nesting](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0565-array-nesting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0210-course-schedule-ii) |
 | [0365-water-and-jug-problem](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0365-water-and-jug-problem) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0449-serialize-and-deserialize-bst) |
+| [0565-array-nesting](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0565-array-nesting) |
 | [0684-redundant-connection](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0684-redundant-connection) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
