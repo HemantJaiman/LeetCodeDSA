@@ -9,10 +9,10 @@ class Solution:
         for move in moves:
             if move == "R":
                 x +=1
-            if move == "L":
+            elif move == "L":
                 x -=1
-            if move == "U":
+            elif move == "U":
                 y +=1
-            if move == "D":
+            else:
                 y -=1
         return x==y==0
