@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0657-robot-return-to-origin](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -301,9 +302,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
