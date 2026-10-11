@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HemantJaiman/LeetCodeDSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
